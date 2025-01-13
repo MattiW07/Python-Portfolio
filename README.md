@@ -1,5 +1,7 @@
 # Python-Portfolio
 This is a portfolio of my Python Projects from Semester 1 of AP Computer Science Principles.
 My first project is a Digital Scene. I worked on this project with two of my classmates and we created a scene of a farm and a little house on a sunny day. The project is simple, but is visually appealing and was fun to make.
-My second project is a Mad Libs Generator. This project asks for 8 different things such as nouns, adjectives, etc. The generator then uses these things to create a story. The story is simple and the generator is very fun as you can put different words in that can make the story fun or boring.
-My third project is a Name Generator Project. In this project, the generator asks many questions to narrow down options and ultimately determine what animal the person is like
+My second project is a Mad Libs Generator. This project asks for 10 different things such as nouns, adjectives, etc. The generator then uses these things to create a story. The story is simple and the generator is very fun as you can put different words in that can make the story fun or boring.
+My third project is a Name Generator Project. In this project, the generator asks many questions to narrow down options and ultimately determine what animal the person is like. Depending on how you answer the generator's questions, you could either be a shark or a sloth!
+My fourth project is a Rock Paper Scissors Game. The game is pretty simple, as you can assume from the game. The person is playing rock paper scissors against the computer. The person enters either rock, paper, or scirros, and the computer randomly generates one of the three options as well. The person can then see if they won, tied, or lost the round. They can also see how many wins, ties, and losses they currently have.
+My fifth project is an Underwater Scene. I worked on this project with two of my classmates. The scene includes a couple fish, a few starfish, and some underwater plants. 
